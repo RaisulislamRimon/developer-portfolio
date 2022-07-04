@@ -58,9 +58,12 @@ p {
     margin-left: 3%;
     margin-right: 2%;
     padding: 10px 40px 90px;
-    border-radius: 5px;
 }
 
-#experience-item-left {}
+#experience-item-left {
+    border-left: 7px solid tomato;
+}
 
-#experience-item-right {}
+#experience-item-right {
+    border-left: 7px solid tomato;
+}
