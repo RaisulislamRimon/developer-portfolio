@@ -7,10 +7,14 @@ body {
     display: flex;
 }
 
+section {
+    margin-bottom: 150px;
+}
+
 .top-banner {
     background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
-    margin-bottom: 150px;
+
 }
 
 h1 {
@@ -65,5 +69,5 @@ p {
 }
 
 #experience-item-right {
-    border-left: 7px solid tomato;
+    border-left: 7px solid blue;
 }
