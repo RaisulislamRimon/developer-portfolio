@@ -60,7 +60,11 @@ p {
     background-position: right bottom;
 }
 
-.experience-area {}
+.experience-area {
+    background-image: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: 0 270px;
+}
 
 .experience-item {
     width: 50%;
