@@ -71,3 +71,7 @@ p {
 #experience-item-right {
     border-left: 7px solid blue;
 }
+
+footer {
+    text-align: center;
+}
